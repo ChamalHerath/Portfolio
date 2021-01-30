@@ -912,6 +912,7 @@ section {
   float: left;
   width: 44px;
   height: 44px;
+  cursor: pointer;
   background: #eef7ff;
   display: flex;
   justify-content: center;
